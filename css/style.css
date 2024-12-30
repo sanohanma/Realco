@@ -140,6 +140,7 @@ body{
 .find{
 	display: flex;
 	justify-content: space-between;
+
 }
 
 .menu{
@@ -258,7 +259,8 @@ h1{
 }
 .find_words{
 	width: 720px;
-	height: 686px;
+	height: 658px;
+	background: #F5F5F2;
 }
 /* .image{
 	width: 720px;
